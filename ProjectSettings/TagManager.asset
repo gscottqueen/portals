@@ -6,6 +6,7 @@ TagManager:
   tags:
   - InteriorWall
   - Portal
+  - Interior Sky Box
   layers:
   - Default
   - TransparentFX
